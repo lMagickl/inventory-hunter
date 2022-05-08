@@ -1,0 +1,10 @@
+---
+refresh_interval: 2 # seconds
+max_price: 630 # dollars
+urls:
+#Amazon	
+#  - https://www.amazon.fr/PlayStation-%C3%89dition-Standard-DualSense-Couleur/dp/B08H93ZRK9
+#  - https://www.amazon.fr/PlayStation-Digital-Manette-DualSense-Couleur/dp/B08H98GVK8
+#  - https://www.amazon.fr/dp/B08H99878P/ref=emc_b_5_i
+...
+ 
