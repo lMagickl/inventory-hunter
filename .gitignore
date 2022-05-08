@@ -4,6 +4,6 @@
 .idea/
 .vagrant/
 __pycache__
-config/private
+config/
 data/
 log/
